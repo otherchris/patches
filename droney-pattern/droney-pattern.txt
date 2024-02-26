@@ -1,0 +1,49 @@
+  - Muxlicer (Com I/O) -> Attenumix (In 1)
+  - Muxlicer (All Gates) -> Dual ADSR (In 1)
+  - Attenumix (Out 1) -> Disting Mk4 (X)
+  - Disting Mk4 (A) -> GWaves (V/Oct 1)
+  - GWaves (Sq/2 1) -> Wasp (Audio In)
+  - Dual ADSR (Out 1) -> Wasp (CV1)
+  - Wasp (LP/HP Out) -> Mixer (In 1)
+
+  - GWaves (Tri 1) -> LPG (Input)
+  - LPG (Output) -> Mixer (In 2)
+
+  - CEM3340 (Ramp) -> Wave Mult (In)
+  - Diode Chaos (X) -> Wave Mult (CVM)
+  - Diode Chaos (Y) -> Wave Mult (CVF)
+  - Wave Mult (Out) -> Mixer (In 3)
+
+  - CEM3340 (Tri) -> MMix (In 1)
+
+  - Mixer (Out) -> MIX1 (In)
+  - MMix (Out) -> MIX2 (In)
+
+	* GWaves:
+	
+	* Diode Chaos: 
+
+	* MMix:
+
+	* Muxlicer:
+
+  * Mixer
+
+  * Attenumix
+
+  * Disting Mk4: Algorithm = Quantizer
+
+  * Wasp
+
+  * LPG
+
+  * MIX1:
+
+  * MIX2:
+
+  * Dual ADSR
+   
+  * CEM3340
+
+  * Wave Mult
+

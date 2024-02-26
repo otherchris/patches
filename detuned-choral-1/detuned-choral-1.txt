@@ -1,0 +1,41 @@
+VOICE 1:
+	- GWaves (Tri1) -> Wasp (Audio In)
+  - Diode Chaos (X) >> Attenumix (In 1)
+  - Attenumix (Out 1) >> Wasp (CV1)
+  - Wasp (LP/HP Out) -> Spring Reverb (In 1)
+  - Spring Reverb (Mix) -> Mixer (In 3)
+
+VOICE 1:
+  - GWaves (Tri2) -> LPG (In)
+  - Diode Chaos (Y) >> Attenumix (In 2) 
+  - Attenumix (Out 2) >> LPG (CV1)
+  - LPG (Out) -> Mixer (In 1)
+
+Effects:
+  - Mixer (Out) -> Disting Mk4 (X)
+  - Disting Mk4 (A) -> MIX1 (Mono In)
+  - Disting Mk4 (B) -> MIX2 (Mono In)
+
+	* GWaves:
+	
+	* Diode Chaos: 
+
+	* Amp Mix:
+
+	* Spring Reverb:
+
+  * Mixer
+
+  * Attenumix
+
+  * Disting Mk4: Algorithm = Stereo Chorus
+
+
+  * Wasp
+
+  * LPG
+
+  * MIX1: Pan = -100%
+
+  * MIX2: Pan = 100%
+
